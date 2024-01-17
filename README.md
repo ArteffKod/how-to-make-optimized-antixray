@@ -28,8 +28,8 @@ RayTraceAntiXray:
     - And [configurate](https://docs.papermc.io/paper/anti-xray) Paper and [RayTrace](https://builtbybit.com/resources/raytraceantixray.24914/)
 
   ### X-Ray is easier to protected `2. METHOD`:
-    Use custom world generation_
-      - Example plugins:
+  Use custom world generation
+    - Example plugins:
         - [Stratos | World Generator](https://www.spigotmc.org/resources/▂▃▅▇█-stratos-world-generator-1-15-1-20-█▇▅▃▂.80313/reviews) **PAID**
         - [Iris - Dimension Engine](https://www.spigotmc.org/resources/iris-dimension-engine.84586/) **PAID**
         - [RealisticWorldGenerator](https://www.spigotmc.org/resources/realisticworldgenerator-1-8-8-1-17-1.15905/) **PAID**
